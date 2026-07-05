@@ -3,7 +3,7 @@
 > Transforming healthcare data into actionable insights using Python and Tableau.
 
 ## 📌 Project Overview
-
+ 
 Hospital readmissions are a major challenge in the healthcare industry, leading to increased treatment costs and placing additional pressure on hospital resources. Understanding the factors that contribute to patient readmission can help healthcare providers improve patient care and reduce avoidable hospital visits.
 
 This project analyzes over **101,000 diabetic patient records** collected from **130 U.S. hospitals (1999–2008)**. The dataset was cleaned and analyzed using Python, and an interactive Tableau dashboard was developed to identify patterns and trends associated with hospital readmissions.
